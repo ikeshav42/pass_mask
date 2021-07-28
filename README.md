@@ -1,1 +1,1 @@
-# pass_mask
+# Password masking in c terminal
